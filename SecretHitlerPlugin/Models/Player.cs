@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SecretHitlerPlugin
 {
-    class Player
+    public class Player
     {
         public ushort ID { get; set; }
         public PlayerColor Color { get; set; }
